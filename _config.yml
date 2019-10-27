@@ -1,3 +1,5 @@
-theme: midnight
+theme: jekyll-theme-midnight
 markdown: kramdown
-highlighter: rouge
+title: Personal Projects
+description: g-jackson's personal projects website
+show_downloads: false
