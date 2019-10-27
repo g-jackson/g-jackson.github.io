@@ -1,1 +1,3 @@
-theme: jekyll-theme-tactile
+theme: midnight
+markdown: kramdown
+highlighter: rouge
