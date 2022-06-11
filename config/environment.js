@@ -44,7 +44,7 @@ module.exports = function (environment) {
   }
 
   if (environment === 'production') {
-    ENV.baseURL = '/project-name';
+    ENV.rootURL = '/g-jakcson.github.io';
     ENV.locationType = 'hash';  }
   return ENV;
 };

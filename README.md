@@ -13,8 +13,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd g-jackson-pages`
+* `git clone https://github.com/g-jackson/g-jackson.github.io.git`
 * `npm install`
 
 ## Running / Development
@@ -22,10 +21,6 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
 
 ### Running Tests
 
@@ -44,12 +39,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
+This will generate a compiled asset bundle and push it to the gh-pages branch which will be picked up by the github CDN after ~30seconds.
+
 `ember deploy production`
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://cli.emberjs.com/release/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
