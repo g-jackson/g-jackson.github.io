@@ -1,0 +1,9 @@
+{
+    "prettier.ignorePath": "config/.prettierignore",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.templating": true
+}

@@ -14,7 +14,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone https://github.com/g-jackson/g-jackson.github.io.git`
-* `npm install`
+* `yarn`
 
 ## Running / Development
 
@@ -29,8 +29,8 @@ You will need the following things properly installed on your computer.
 
 ### Linting
 
-* `npm run lint`
-* `npm run lint:fix`
+* `yarn lint`
+* `yarn lint:fix`
 
 ### Building
 
